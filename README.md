@@ -1,5 +1,5 @@
-# cse101-pt.s22
+# cse101-pt.w23
 
-grading scripts for Patrick Tantalo's CSE101 during Spring 2022 (Sections 01 and 02)
+Grading scripts for Patrick Tantalo's CSE101 during Winter 2023 (Sections 01 and 02)
 
-Provided by Andrew Gavgavian.
+Thanks to Andrew Gavgavian for his contributions.
