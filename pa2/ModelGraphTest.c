@@ -6,8 +6,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "Graph.h"
 #include "List.h"
+#include "Graph.h"
 
 #define FIRST_TEST DG_getSize
 #define MAXSCORE 40
