@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 SRCDIR=https://raw.githubusercontent.com/tekinengin/cse101-pt.w23/main/pa2
 NUMTESTS=6
