@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SRCDIR=https://raw.githubusercontent.com/tekinengin/cse101-pt.w23/main/pa2
+SRCDIR=https://raw.githubusercontent.com/eskellener/cse101-pt.w23/main/pa2
 
 curl $SRCDIR/ModelGraphTest.c > ModelGraphTest.c
 
