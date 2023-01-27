@@ -3,7 +3,7 @@
 # usage: pa2.sh
 # (run within your pa2 directory to test your code)
 
-SRCDIR=https://raw.githubusercontent.com/tekinengin/cse101-pt.w23/main/pa2
+SRCDIR=https://raw.githubusercontent.com/eskellener/cse101-pt.w23/main/pa2
 
 EXE_ALL=( pa2-func-check.sh pa2-lunit-check.sh pa2-gunit-check.sh pa2-make-check.sh )
 EXE_RANGE=$((${#EXE_ALL[*]} - 1))
